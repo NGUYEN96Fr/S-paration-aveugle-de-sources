@@ -61,7 +61,7 @@ int main ()
 
   // Declaration of variables
   int    nb_samples, n1, n2;          // number of samples
-  int    time_delay     = 4;          // number of time delays for time correlations in SOBI
+  int    time_delay     = 12;          // number of time delays for time correlations in SOBI
   int    i ,j;                        // loop variables
   double cos_1, cos_2, err_1, err_2;  // performance indices
 

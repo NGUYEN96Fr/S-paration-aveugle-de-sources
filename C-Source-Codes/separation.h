@@ -1,3 +1,5 @@
+// Implémenté par NGUYEN Van-Khoa(van-khoa.nguyen@imt-atlantique.net)
+
 void intercovariance(double input_1[],double input_2[], int nb_samples, int step, int time_delay, double *R_av){
 // well-done
     int I = 0;

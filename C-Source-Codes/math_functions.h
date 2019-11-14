@@ -1,3 +1,4 @@
+// Implémenté par NGUYEN Van-Khoa(van-khoa.nguyen@imt-atlantique.net)
 
 void vector_dot(double v1[], double v2[], double *Xin, int time_delay){
 // well-done
